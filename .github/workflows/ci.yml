@@ -16,4 +16,4 @@ jobs:
     - name: make
       run: make
     - name: test
-      run: ./src/lua
+      run: make test
