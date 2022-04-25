@@ -7,3 +7,5 @@
 # Build files
 *.o
 *.a
+src/lua
+src/luac
